@@ -29,6 +29,7 @@ genetic language, but further task testing is needed to confirm this.
 | gpt2-small-2   | en+DNA   | en       | 0.76    | 0.59    | 0.60    | 0.56    | 0.60     |
 
 
+
 * dna_150.json, dna pair data
 * dna_protein_150.json, dna protein pair data
 * gpt2_small_pretrain_en_finetune_en.ipynb , code for gpt2 small
@@ -37,3 +38,16 @@ genetic language, but further task testing is needed to confirm this.
 * bert_pretrain_en_finetune_en.ipynb, code for bert base
 * bert_multi_pretrain_en_finetune_en.ipynb, code for bert multi language
 * gpt2_small_pretrain_en_dna_finetune_en.ipynb, code for gpt2-small-2
+
+# paper
+```json
+@misc{liang2024linguistsbetterunderstanddna,
+      title={Can linguists better understand DNA?}, 
+      author={Wang Liang},
+      year={2024},
+      eprint={2412.07678},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.07678}, 
+}
+```
