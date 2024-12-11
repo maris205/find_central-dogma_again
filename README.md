@@ -40,7 +40,7 @@ genetic language, but further task testing is needed to confirm this.
 * gpt2_small_pretrain_en_dna_finetune_en.ipynb, code for gpt2-small-2
 
 # paper
-```json
+```
 @misc{liang2024linguistsbetterunderstanddna,
       title={Can linguists better understand DNA?}, 
       author={Wang Liang},
